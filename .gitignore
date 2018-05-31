@@ -168,3 +168,5 @@ misc/localhostCA.srl
 
 node_modules
 vendor
+
+bazel-*
